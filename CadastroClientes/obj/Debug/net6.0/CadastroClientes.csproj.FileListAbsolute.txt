@@ -1,0 +1,48 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\refint\CadastroClientes.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\ref\CadastroClientes.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\Dapper.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.csproj.CopyComplete
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.exe
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.deps.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.runtimeconfig.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\CadastroClientes.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\Dapper.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.csproj.AssemblyReference.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.AssemblyInfoInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.AssemblyInfo.cs
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.csproj.CopyComplete
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\refint\CadastroClientes.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\CadastroClientes.genruntimeconfig.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\ProjetoCadastro\CadastroClientes\obj\Debug\net6.0\ref\CadastroClientes.dll
